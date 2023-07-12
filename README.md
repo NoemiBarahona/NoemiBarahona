@@ -1,4 +1,4 @@
-#Hola 👋 Mi nombre es Noemi
+# Hola 👋 Mi nombre es Noemi
 
 Para contarte un poco sobre mí, soy un desarrollador front-end. Aquí puedes ver mis proyectos, y cada uno de ellos ha sido un reto. Sin embargo, la clave está en la motivación y la iniciativa, y darte cuenta de lo fascinante que es la tecnología.
 
