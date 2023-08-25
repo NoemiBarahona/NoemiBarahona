@@ -27,9 +27,9 @@ Para contarte un poco sobre mí, soy un desarrollador front-end. Aquí puedes ve
 
 #### Puedes encontrarme 📫
 
-  <a href="https://www.linkedin.com/in/mikaella-mu%C3%B1oz/">
-  <img align="left" alt="Mikaella Muñoz | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/noemi-barahona//">
+  <img align="left" alt="Noemi Barahonaz | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="mailto:mikamub@gmail.com">
-  <img align="left" alt="Mikaella Muñoz | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:noebeatrizm@gmail.com">
+  <img align="left" alt="Noemi Barahona | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
